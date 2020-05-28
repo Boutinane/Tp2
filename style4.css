@@ -1,0 +1,4 @@
+body{background-image: url(images/blackgoose.png);background-repeat: no-repeat;background-position: center;}
+#div1{background-image: url(images/purpledot.png),url(images/purpledot.png), url(images/gooseshadow.png
+    );background-position: right, left,  75% 100%;;background-repeat: repeat-y,repeat-y,no-repeat;}
+

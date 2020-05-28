@@ -1,2 +1,6 @@
-body {background-image: url(images/bullseye.png);}
+body {background-image: url(images/bullseye.png);background-repeat: repeat;}
 li.c4 {list-style-image: url(images/bull.PNG);font-size: xx-large;}  
+#div1{background-image: url(images/purpledot.png); background-repeat: repeat-x;}
+li.c1{list-style: lower-roman;}
+li.c2{list-style: circle;}
+li.c3{list-style: inside;}
